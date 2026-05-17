@@ -1,4 +1,4 @@
-import miFoto from '../assets/img/mifoto.jpg';
+import mifoto from '../assets/img/mifoto.jpg';
 export default function HeroSection() {
 
     function ProfileCard() {
@@ -6,7 +6,7 @@ export default function HeroSection() {
     <div className="flex justify-center">
       <div className="bg-slate-900 border border-slate-800 rounded-3xl p-8 shadow-2xl w-full max-w-md">
        <img
-          src={miFoto}
+          src={mifoto}
           alt="Mi Foto"
           className="w-32 h-32 mx-auto rounded-full border-4 border-cyan-400 object-cover"
         />
