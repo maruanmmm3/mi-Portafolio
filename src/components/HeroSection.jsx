@@ -1,4 +1,4 @@
-import miFoto from '../assets/img/miFoto.jpg';
+import miFoto from '../assets/img/mifoto.jpg';
 export default function HeroSection() {
 
     function ProfileCard() {
